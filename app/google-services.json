@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096696840255",
+    "project_id": "certsign-45b0d",
+    "storage_bucket": "certsign-45b0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096696840255:android:5e06089fcdcd8095c7b88a",
+        "android_client_info": {
+          "package_name": "com.example.unipaccertificade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096696840255-s1qm83en6nvd9h6n2m271nn06eu11nek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaHKSRDqEB7jucOmo2-sIvO4DY4DaHnn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096696840255-s1qm83en6nvd9h6n2m271nn06eu11nek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
